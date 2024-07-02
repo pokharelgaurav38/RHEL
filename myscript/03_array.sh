@@ -10,6 +10,6 @@ myArray=( 1 20 30.5 Hello "Hey Buddy!" )
 
 for i in ${myArray[@]}; do
 	echo $i
-echo "Changes made by Gaurab"
+echo "Changes made by Gaurab pokharel"
 
 done
